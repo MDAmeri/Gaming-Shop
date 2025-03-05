@@ -32,6 +32,8 @@ Products* Monitors = nullptr;
 Products* Headsets = nullptr;
 Products* Shopping_Cart_Item = nullptr;
 
+
+ // comment
 void Payment(const string& name, int& ValueGamingShop, int& ValueCustomer)
 {
 	string RemoveCart;
